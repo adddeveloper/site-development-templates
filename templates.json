@@ -1,0 +1,14 @@
+[
+    {
+        "foldername": "connecting",
+        "name": "Connecting to domain",
+        "style": "CMD windows",
+        "image": ""
+    },
+    {
+        "foldername": "forsale",
+        "name": "Domain for sale",
+        "style": "Interactive card",
+        "image": ""
+    }
+]
